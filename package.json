@@ -1,0 +1,26 @@
+{
+  "name": "exel-prjct",
+  "version": "1.0.0",
+  "description": "Single Page Application Excel",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quick-progress/Spa-excel.git"
+  },
+  "author": "Georgiy Kuznetsov <georgiy.kuznetsov.19@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quick-progress/Spa-excel/issues"
+  },
+  "homepage": "https://github.com/quick-progress/Spa-excel#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
